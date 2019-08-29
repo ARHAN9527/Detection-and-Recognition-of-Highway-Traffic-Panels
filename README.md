@@ -9,6 +9,9 @@
 ### 路牌辨識網路架構
 ![路牌辨識網路架構](https://i.imgur.com/rErCq5Q.png)
 
-
 ### 實驗結果
+#### 影片
+[![影片](http://img.youtube.com/vi/8720t3SDifc/0.jpg)](http://www.youtube.com/watch?v=8720t3SDifc)
+#### 圖片
 ![實驗結果](https://i.imgur.com/1xT1yUC.png)
+
